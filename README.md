@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 Hi, I am William! I am currently an undergraduate student in University of Waterloo, Studying Computer Science and Finance.
+🌱 Hi, I am William! I am currently an undergraduate student in University of Waterloo, studying Computer Science and Finance.
 
 I have strong interests in capital market and computer technology. I believe the combination of these two fields will lead to more effective financial services.
 
